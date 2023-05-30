@@ -4,6 +4,7 @@ Purple
 Pink
 Green
 Orange 
+yellow
 Blue
 Red
 These are the colours of the rainbow. 
